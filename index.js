@@ -1,3 +1,3 @@
 module.exports = {
-  pcaa: require('./pcaa')
+  pcaa: require('./pcaa'),
 }
