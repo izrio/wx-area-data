@@ -1,0 +1,27 @@
+{
+  "name": "wx-area-data",
+  "version": "1.0.0",
+  "description": "微信小程序地址区域数据，中国省、市、区数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/longchuxiong/wx-area-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/longchuxiong/wx-area-data/issues"
+  },
+  "keywords": [
+    "china",
+    "area",
+    "行政区域代码",
+    "china area",
+    "picker",
+    "area picker",
+    "中国省份"
+  ],
+  "author": "longchuxiong",
+  "license": "ISC"
+}
